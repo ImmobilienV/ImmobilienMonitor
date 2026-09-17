@@ -1,0 +1,3 @@
+﻿portal,external_id,title,object_type,offer_type,city,postal_code,street,price_eur,living_area_m2,plot_area_m2,rooms,year_built,provider,url
+Beispielportal,WG-1001,Einfamilienhaus in Wangen,Einfamilienhaus,Kauf,Wangen im Allgäu,88239,,649000,165,620,6,1995,Beispiel Makler,https://example.com/immobilie/WG-1001
+Beispielportal,IS-1002,Doppelhaushälfte in Isny,Doppelhaushälfte,Kauf,Isny im Allgäu,88316,,495000,142,380,5,2004,Beispiel Makler,https://example.com/immobilie/IS-1002
